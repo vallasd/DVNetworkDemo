@@ -3,7 +3,7 @@
 # DVNetworkDemo
 
 ```
-Framework for demoing DVNetwork framework.
+App for demoing DVNetwork framework.
 ```
 
 ## Motivation
